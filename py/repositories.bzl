@@ -38,7 +38,7 @@ def rules_py_dependencies():
 
     http_archive(
         name = "rules_python",
-        sha256 = "cff4c0ac0873ce089557b72828f34b82e67f35e9accfe414b5c3230907104a87",
-        strip_prefix = "rules_python-9facc3e3341f156377c61afbaa1dfb79a3843b78",
-        url = "https://github.com/bazelbuild/rules_python/archive/9facc3e3341f156377c61afbaa1dfb79a3843b78.tar.gz",
+        sha256 = "eec3e45a6fb4430842a7b418e677d21c77b73f5879313b103d9898af63a0ec8c",
+        strip_prefix = "rules_python-900d801ab3887017a8df086ef72d6f3c5c217bff",
+        url = "https://github.com/bazelbuild/rules_python/archive/900d801ab3887017a8df086ef72d6f3c5c217bff.tar.gz",
     )
